@@ -68,3 +68,16 @@ ul li a:hover {
   flex-direction:row;
   justify-content: center;
 }
+footer {
+  background-color: #004d9b;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  }
+#draggable { 
+  width: 150px; height: 150px; padding: 0.5em; border: 2px; 
+}
